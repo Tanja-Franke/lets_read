@@ -29,5 +29,5 @@ Fore.RED +"""
  | |    / _ \ __| / __| | '__/ _ \/ _` |/ _` |
  | |___|  __/ |_  \__ \ | | |  __/ (_| | (_| |
  |______\___|\__| |___/ |_|  \___|\__,_|\__,_|
-""",Style.BRIGHT+Fore.BLUE+"""Welcome to Let´s Read!/n Your Bible reading habit tracker!
+""", Style.BRIGHT+Fore.BLUE+"""Welcome to Let´s Read!/n Your Bible reading habit tracker!
 """]
