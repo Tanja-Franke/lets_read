@@ -181,7 +181,7 @@ Due to time management reasons the project is not ready and incomplete
 
 ## Deploying this Project
 
-* This site was deployed by completing the following steps:
+* This application was deployed by completing the following steps:
 
 1. Logging in to [Heroku](https://id.heroku.com) or first create an account if not already
 2. On the main page click the dots-menu icon in the top right corner next to your avatar and choose dashboard
